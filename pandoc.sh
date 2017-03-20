@@ -29,3 +29,5 @@ pandoc \
 	--write html  \
 	--output exec.html \
 	exec.md
+
+# pandoc --x global.yaml p.yaml p.md -o -.html -templat -x
