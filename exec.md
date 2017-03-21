@@ -1,9 +1,3 @@
----
-title: "exec"
-description: "The exec command description and usage"
-keywords: "command, container, run, execute"
----
-
 <!-- This file is maintained within the docker/docker Github
      repository at https://github.com/docker/docker/. Make all
      pull requests against that repo. If you see this file in
